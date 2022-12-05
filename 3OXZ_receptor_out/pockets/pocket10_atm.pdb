@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0350
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9628
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7283
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 2.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 2.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 198.8108
+HEADER 10  -Pocket volume (convex hull)       : 1.7051
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM    892   OG SER A 336      25.233  23.350  -6.461  0.72  3.21           O 0
+ATOM    891   CB SER A 336      26.484  23.961  -6.211  0.00  0.00           C 0
+ATOM   2247  OD2 ASP A 504      24.714  22.941 -10.434  0.66  6.43           O 0
+ATOM    898    N VAL A 338      22.731  26.076  -5.815  0.54  1.09           N 0
+ATOM   2244   CB ASP A 504      22.595  23.594 -11.205  0.00  0.00           C 0
+ATOM    902   CB VAL A 338      21.187  24.869  -7.374  0.00  0.00           C 0
+ATOM    903  CG1 VAL A 338      22.092  23.656  -7.459  0.00  0.00           C 0
+ATOM   2238   CB SER A 503      21.574  27.992 -13.783  0.00  0.00           C 0
+ATOM   2237    O SER A 503      23.236  25.411 -14.918  0.00  0.00           O 0
+ATOM   2239   OG SER A 503      22.027  29.021 -14.629  0.00  0.00           O 0
+ATOM   2268   CB GLU A 507      26.448  24.403 -14.974  0.00  0.00           C 0
+ATOM   2240    N ASP A 504      21.990  24.971 -13.117  0.00  0.00           N 0
+ATOM   2241   CA ASP A 504      22.942  23.999 -12.634  0.00  0.00           C 0
+ATOM   2217    O SER A 500      20.196  26.426 -11.351  0.42  1.07           O 0
+ATOM   2219   OG SER A 500      20.426  27.474  -8.388  0.00  0.00           O 0
+ATOM    897   CB ALA A 337      24.754  28.586  -5.660  0.00  0.00           C 0
+ATOM    893    N ALA A 337      25.435  26.336  -5.010  0.36  2.19           N 0
+ATOM   2236    C SER A 503      22.251  25.645 -14.223  0.00  0.00           C 0
+TER
+END

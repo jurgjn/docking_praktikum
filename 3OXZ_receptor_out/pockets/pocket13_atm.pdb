@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0517
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9375
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6124
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 14.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 176.9384
+HEADER 10  -Pocket volume (convex hull)       : 2.8771
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   1896    O GLU A 462      29.017  34.941  -0.033  0.00  0.00           O 0
+ATOM   1660   CA THR A 434      28.092  31.042   5.164  0.00  0.00           C 0
+ATOM   1657    O ALA A 433      27.090  31.334   2.612  0.45  4.29           O 0
+ATOM    860  NH1 ARG A 332      32.751  28.379   1.294  0.00  0.00           N 0
+ATOM   1890   CB PRO A 461      26.843  35.743   3.722  0.00  0.00           C 0
+ATOM   1675  CE2 TYR A 435      29.178  27.736   0.567  0.00  0.00           C 0
+ATOM   1673  CD2 TYR A 435      29.460  27.829   1.915  0.00  0.00           C 0
+ATOM   1665  CG2 THR A 434      27.806  33.217   6.434  0.00  0.00           C 0
+ATOM   1893    N GLU A 462      29.129  37.151   1.756  0.32  5.47           N 0
+ATOM   1897   CB GLU A 462      31.237  36.931   0.507  0.00  0.00           C 0
+ATOM   1688   SD MET A 437      31.481  32.947   8.087  0.00  0.00           S 0
+ATOM   1663   CB THR A 434      28.313  31.781   6.522  0.00  0.00           C 0
+ATOM   1662    O THR A 434      29.824  29.484   5.708  0.00  0.00           O 0
+ATOM   1661    C THR A 434      28.681  29.647   5.275  0.00  0.00           C 0
+TER
+END

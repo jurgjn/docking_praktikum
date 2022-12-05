@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0297
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.7597
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4770
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 5.1250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 238.4392
+HEADER 10  -Pocket volume (convex hull)       : 11.9595
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5200
+ATOM   1788   OH TYR A 449      13.311  44.900  22.966  0.53  3.21           O 0
+ATOM   2042  CZ2 TRP A 478      12.981  45.897  19.507  0.00  0.00           C 0
+ATOM   1495  CE1 TYR A 413       8.719  43.625  24.184  0.00  0.00           C 0
+ATOM   1498   OH TYR A 413       9.044  45.902  24.895  0.00  0.00           O 0
+ATOM   2039  NE1 TRP A 478      10.978  46.673  18.232  0.00  0.00           N 0
+ATOM   1822  OE2 GLU A 453      13.795  49.067  21.782  0.17  5.36           O 0
+ATOM   2034    O TRP A 478      10.010  42.943  15.867  0.69  2.14           O 0
+ATOM   2059   CD PRO A 480       6.822  41.521  16.535  0.00  0.00           C 0
+ATOM   2037  CD1 TRP A 478      10.581  46.580  16.890  0.00  0.00           C 0
+ATOM   2052  ND2 ASN A 479       4.934  43.645  15.753  0.00  0.00           N 0
+ATOM   2050   CG ASN A 479       5.132  44.445  14.708  0.00  0.00           C 0
+ATOM   2049   CB ASN A 479       6.603  44.693  14.189  0.00  0.00           C 0
+ATOM   2046   CA ASN A 479       7.616  43.585  14.588  0.00  0.00           C 0
+ATOM   1456   CB PRO A 408      13.549  41.822  19.415  0.00  0.00           C 0
+ATOM   1459    N GLU A 409      11.384  40.036  20.693  0.00  0.00           N 0
+ATOM   2040  CE2 TRP A 478      12.201  46.076  18.371  0.00  0.00           C 0
+ATOM   1463   CB GLU A 409       8.847  40.008  20.806  0.00  0.00           C 0
+ATOM   1460   CA GLU A 409      10.202  40.012  21.581  0.00  0.00           C 0
+TER
+END

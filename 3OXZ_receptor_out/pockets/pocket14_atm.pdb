@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0550
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.2584
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7033
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 2.4000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 199.9703
+HEADER 10  -Pocket volume (convex hull)       : 1.5837
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM   1017  CD1 TYR A 353       2.586  19.489   7.312  0.00  0.00           C 0
+ATOM   1015   CB TYR A 353       4.259  21.380   7.307  0.00  0.00           C 0
+ATOM    554  NE2 HIS A 295       6.125  19.473   4.371  0.00  0.00           N 0
+ATOM   1008   CD GLU A 352       3.325  26.119   3.092  0.00  0.00           C 0
+ATOM    552  CD2 HIS A 295       5.315  18.818   5.262  0.00  0.00           C 0
+ATOM    986    O SER A 349       6.696  22.825   5.045  0.00  0.00           O 0
+ATOM   1010  OE2 GLU A 352       4.338  26.159   2.360  0.74  5.36           O 0
+ATOM    988   OG SER A 349       7.809  21.722   2.364  0.00  0.00           O 0
+ATOM   1044   CB LYS A 356      -0.564  24.552   7.854  0.00  0.00           C 0
+ATOM   1009  OE1 GLU A 352       2.159  26.284   2.673  0.00  0.00           O 0
+ATOM   1012   CA TYR A 353       3.572  22.720   7.577  0.00  0.00           C 0
+ATOM   1007   CG GLU A 352       3.512  25.850   4.557  0.00  0.00           C 0
+ATOM   1005    O GLU A 352       2.847  25.368   7.438  0.57  1.07           O 0
+ATOM   1011    N TYR A 353       4.382  23.794   7.027  0.00  0.00           N 0
+TER
+END

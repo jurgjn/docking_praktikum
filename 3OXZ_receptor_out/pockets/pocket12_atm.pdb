@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0471
+HEADER 1  - Drug Score                        : 0.0029
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 3.7727
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4681
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 21.1111
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 295.3966
+HEADER 10  -Pocket volume (convex hull)       : 18.4544
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 22.0000
+HEADER 13 - Number of apolar alpha sphere     :    23
+HEADER 14 - Proportion of apolar alpha sphere : 0.7931
+ATOM   1695   OG SER A 438      29.838  30.140  15.584  0.00  0.00           O 0
+ATOM   1324   CB THR A 392      25.480  28.307  20.356  0.00  0.00           C 0
+ATOM   1434  CH2 TRP A 405      23.850  29.747  16.213  0.00  0.00           C 0
+ATOM   1325  CG2 THR A 392      26.257  27.094  19.833  0.00  0.00           C 0
+ATOM   1321    O ASP A 391      27.077  29.752  24.090  0.00  0.00           O 0
+ATOM   1433  CZ3 TRP A 405      23.279  30.338  17.360  0.00  0.00           C 0
+ATOM   1702   CD PRO A 439      25.766  31.849  14.485  0.00  0.00           C 0
+ATOM   1327    C THR A 392      23.434  28.603  21.983  0.00  0.00           C 0
+ATOM   1412    N LYS A 404      21.619  33.932  19.845  0.00  0.00           N 0
+ATOM   1323   CA THR A 392      24.908  28.353  21.733  0.00  0.00           C 0
+ATOM   1416   CB LYS A 404      23.228  34.164  18.026  0.00  0.00           C 0
+ATOM   1420   NZ LYS A 404      28.171  35.274  18.220  0.67  9.84           N 0
+ATOM   1749  CD2 LEU A 445      25.965  35.056  22.057  0.00  0.00           C 0
+ATOM   1748  CD1 LEU A 445      26.881  34.160  24.234  0.00  0.00           C 0
+ATOM   1747   CG LEU A 445      26.828  35.357  23.273  0.00  0.00           C 0
+ATOM   1404    N ILE A 403      20.885  32.499  22.254  0.00  0.00           N 0
+ATOM   1347  CG2 THR A 394      25.038  31.919  26.042  0.00  0.00           C 0
+ATOM   1417   CG LYS A 404      24.332  35.028  18.662  0.00  0.00           C 0
+ATOM   1418   CD LYS A 404      25.701  34.681  18.115  0.00  0.00           C 0
+ATOM   1694   CB SER A 438      29.493  31.404  15.062  0.00  0.00           C 0
+TER
+END

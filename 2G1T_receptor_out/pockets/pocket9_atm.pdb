@@ -1,0 +1,65 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0087
+HEADER 1  - Drug Score                        : 0.5666
+HEADER 2  - Number of alpha spheres           :    75
+HEADER 3  - Mean alpha-sphere radius          : 3.9436
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4984
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 44.1875
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 651.3391
+HEADER 10  -Pocket volume (convex hull)       : 167.1822
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 48.8387
+HEADER 13 - Number of apolar alpha sphere     :    62
+HEADER 14 - Proportion of apolar alpha sphere : 0.8267
+ATOM   1936   CB PRO A 465      20.916  35.478  -4.587  0.00  0.00           C 0
+ATOM   2201   CB MET A 496      14.395  31.585  -5.628  0.00  0.00           C 0
+ATOM   2203   SD MET A 496      15.007  33.517  -3.767  0.00  0.00           S 0
+ATOM   2202   CG MET A 496      14.026  32.992  -5.189  0.00  0.00           C 0
+ATOM    947  CD2 LEU A 341      17.712  29.017  -6.151  0.00  0.00           C 0
+ATOM    946  CD1 LEU A 341      17.752  29.827  -3.765  0.00  0.00           C 0
+ATOM   1937   CG PRO A 465      20.913  34.345  -3.616  0.00  0.00           C 0
+ATOM   1963  CG2 VAL A 468      18.402  33.500  -1.741  0.00  0.00           C 0
+ATOM   2200    O MET A 496      15.192  29.865  -8.296  0.00  0.00           O 0
+ATOM   2233  OE2 GLU A 499      11.910  34.169 -10.317  0.63  7.50           O 0
+ATOM   1953   CG LYS A 467      15.234  38.746  -5.059  0.00  0.00           C 0
+ATOM   2232  OE1 GLU A 499      13.487  34.520 -11.806  0.00  0.00           O 0
+ATOM   1956   NZ LYS A 467      14.918  40.828  -7.269  0.00  0.00           N 0
+ATOM   1672  CG2 ILE A 432      22.424  27.134   2.613  0.00  0.00           C 0
+ATOM   1638    O LEU A 429      21.910  31.138   4.764  0.00  0.00           O 0
+ATOM   1674    N ALA A 433      24.195  30.120   3.513  0.00  0.00           N 0
+ATOM   1962  CG1 VAL A 468      19.163  33.820   0.611  0.00  0.00           C 0
+ATOM   1642  CD2 LEU A 429      17.376  30.425   3.792  0.00  0.00           C 0
+ATOM   1678   CB ALA A 433      24.231  32.421   2.717  0.00  0.00           C 0
+ATOM    916    O ALA A 337      22.079  27.743  -5.046  0.63  2.14           O 0
+ATOM    917   CB ALA A 337      24.500  29.318  -6.510  0.00  0.00           C 0
+ATOM   2231   CD GLU A 499      12.671  33.770 -11.226  0.00  0.00           C 0
+ATOM   2239   OG SER A 500      19.281  28.641  -9.500  0.00  0.00           O 0
+ATOM   2198   CA MET A 496      13.696  31.118  -6.907  0.00  0.00           C 0
+ATOM   2229   CB GLU A 499      13.957  31.627 -11.590  0.00  0.00           C 0
+ATOM   1925    O GLY A 463      25.787  34.540  -3.521  0.00  0.00           O 0
+ATOM    938  CD1 LEU A 340      25.214  28.292  -0.976  0.00  0.00           C 0
+ATOM   1677    O ALA A 433      27.113  31.403   1.901  0.40  6.43           O 0
+ATOM   1927   CA CYS A 464      24.430  35.557  -1.359  0.00  0.00           C 0
+ATOM    936   CB LEU A 340      23.077  27.090  -1.418  0.00  0.00           C 0
+ATOM    934    C LEU A 340      20.726  26.285  -1.551  0.00  0.00           C 0
+ATOM   1952   CB LYS A 467      15.880  37.663  -4.185  0.00  0.00           C 0
+ATOM    972   CB ALA A 344      17.105  27.569   1.159  0.00  0.00           C 0
+ATOM   2178  CE1 PHE A 493      15.626  30.705  -0.100  0.00  0.00           C 0
+ATOM   1938   CD PRO A 465      22.328  34.326  -3.105  0.00  0.00           C 0
+ATOM   1931   SG CYS A 464      22.352  35.731   0.517  0.00  0.00           S 0
+ATOM    914   CA ALA A 337      24.387  28.086  -5.608  0.00  0.00           C 0
+ATOM    940    N LEU A 341      20.266  26.629  -2.745  0.00  0.00           N 0
+ATOM    935    O LEU A 340      20.036  26.304  -0.527  0.00  0.00           O 0
+ATOM    941   CA LEU A 341      18.897  27.073  -2.950  0.00  0.00           C 0
+ATOM   1675   CA ALA A 433      24.854  31.042   2.599  0.00  0.00           C 0
+ATOM   2238   CB SER A 500      17.952  29.119  -9.594  0.00  0.00           C 0
+ATOM   2234    N SER A 500      16.075  29.526 -11.101  0.00  0.00           N 0
+TER
+END

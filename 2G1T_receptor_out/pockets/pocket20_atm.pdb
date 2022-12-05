@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0856
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 4.1179
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5129
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -7.6667
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 5.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 481.4608
+HEADER 10  -Pocket volume (convex hull)       : 37.9090
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2333
+ATOM    545  OE2 GLU A 292      -0.063   9.885  14.829  0.00  0.00           O 0
+ATOM     70   CD LYS A 234      -1.024   2.298  15.848  0.00  0.00           C 0
+ATOM     81  NE1 TRP A 235       2.247   6.594  19.047  0.46  7.66           N 0
+ATOM     72   NZ LYS A 234      -3.462   2.618  15.427  0.00  0.00           N 0
+ATOM     45   CA TYR A 232       0.579   4.137  21.728  0.00  0.00           C 0
+ATOM     50  CD1 TYR A 232       0.102   7.189  22.291  0.00  0.00           C 0
+ATOM     56    N ASP A 233       0.725   1.732  21.365  0.00  0.00           N 0
+ATOM     71   CE LYS A 234      -2.409   1.676  15.902  0.00  0.00           C 0
+ATOM     69   CG LYS A 234       0.014   1.352  16.421  0.00  0.00           C 0
+ATOM     60   CB ASP A 233       0.376  -0.685  21.119  0.00  0.00           C 0
+ATOM     63  OD2 ASP A 233      -1.742  -0.708  22.195  0.45  4.29           O 0
+ATOM    536   NZ LYS A 291       5.148   6.802  13.730  0.00  0.00           N 0
+ATOM    562   NZ LYS A 294       1.223   8.430  10.517  0.00  0.00           N 0
+ATOM    533   CG LYS A 291       3.794   8.543  15.914  0.00  0.00           C 0
+ATOM     68   CB LYS A 234       1.387   2.001  16.523  0.00  0.00           C 0
+ATOM     79  CD1 TRP A 235       2.909   5.656  18.291  0.00  0.00           C 0
+ATOM    535   CE LYS A 291       5.243   6.590  15.206  0.00  0.00           C 0
+ATOM     44    N TYR A 232      -0.684   3.785  22.443  0.48  1.09           N 0
+ATOM     36    N ASN A 231      -4.978   3.812  23.582  0.76  4.37           N 0
+ATOM     43    O ASN A 231      -2.438   2.550  22.609  0.63  6.43           O 0
+ATOM     35    O PRO A 230      -6.034   1.780  24.009  0.00  0.00           O 0
+ATOM     42    C ASN A 231      -2.046   3.632  23.030  0.00  0.00           C 0
+ATOM     37   CA ASN A 231      -3.462   4.301  23.398  0.00  0.00           C 0
+TER
+END
